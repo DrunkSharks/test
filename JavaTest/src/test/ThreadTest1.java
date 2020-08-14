@@ -27,7 +27,6 @@ public class ThreadTest1{
 				}
 			}
 		}
-		//添加一行输出
-		System.out.println("commit");
+		
 	}
 }
