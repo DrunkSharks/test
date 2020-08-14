@@ -27,7 +27,7 @@ public class ThreadTest1{
 				}
 			}
 		}
-		//添加一行代码
-		System.out.println("添加一行代码");
+		//修改一行代码
+		System.out.println("修改代码");
 	}
 }
