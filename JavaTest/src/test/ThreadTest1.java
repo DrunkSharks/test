@@ -27,5 +27,6 @@ public class ThreadTest1{
 				}
 			}
 		}
+		System.out.println("添加分支");
 	}
 }
